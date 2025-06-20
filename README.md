@@ -4,7 +4,7 @@ This project analyzes traffic accident data to identify patterns related to:
 - Road conditions
 - Weather
 - Time of day
-
+  
 ## 📊 Key Features
 - Identify accident hotspots using maps
 - Analyze accident trends by time and weather
